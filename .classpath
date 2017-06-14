@@ -10,5 +10,6 @@
 			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
 		</accessrules>
 	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/搜狗高速下载/youmi_android_sdk_all_广告/youmi_android_sdk_all_广告/youmi-android-sdk-_2012-06-26/lib/youmi-android_v3.07_2012-6-26.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
